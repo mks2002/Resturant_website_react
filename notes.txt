@@ -1,0 +1,3 @@
+whenever we use img tag inside our jsx and we import our image from any other folder we just have to write variable name inside curly bracket in src attribute without using "" if we using this( "" )then it does not work..
+
+after building the buld deployment version we can go to build folder and then if we type golive then it is simply running as a static website directly ...
